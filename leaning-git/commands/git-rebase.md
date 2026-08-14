@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git rebase
 
 `git rebase` was probably one of the Git commands that confused me the most when I first came across it.
@@ -130,3 +132,5 @@ git rebase origin/dev
 git rebase origin/main
 
 ⚠️ Rebase dev onto main.
+
+[← Back to Main README](../Readme.md)

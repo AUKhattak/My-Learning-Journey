@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git stash - git pop
 
 `git stash` was another one of those commands that I didn't really understand at first.
@@ -48,3 +50,4 @@ It's a small thing, but `stash` has saved me from making a lot of unnecessary co
 
 **`git stash` is for temporary work, not a replacement for commits.**
 
+[← Back to Main README](../Readme.md)

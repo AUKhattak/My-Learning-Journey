@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # merge conflict and how do I manage it
 
 One of the Git messages that scared me the most when I first started was:
@@ -236,3 +238,5 @@ And honestly, I'd rather Git stop and ask me than silently choose the wrong code
 So my biggest lesson with merge conflicts is:
 
 > **Don't panic, don't blindly choose "ours" or "theirs", and don't rush. Understand both changes and decide what the final code should be.**
+
+[← Back to Main README](../Readme.md)

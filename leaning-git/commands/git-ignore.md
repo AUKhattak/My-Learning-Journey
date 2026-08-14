@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # How I Secure Environment Variables
 
 One of my first lessons about Git security actually started with something much less serious — `node_modules`. 😄
@@ -109,3 +111,5 @@ Then I clean up the repository history if necessary.
 My biggest lesson from accidentally pushing `node_modules` was simple:
 
 > **Git should contain the source code and files needed to build the project — not every file sitting on my machine. 😄**
+
+[← Back to Main README](../Readme.md)

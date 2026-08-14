@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git rebase vs reset vs revert — choosing the right command
 
 Once I started learning `git reset`, `git revert`, and `git rebase`, I realized that all three can feel like they're doing the same thing:
@@ -343,3 +345,6 @@ So now, before using any of these commands, I ask myself one simple question:
 If the answer is no, I have much more freedom.
 
 If the answer is yes, I slow down.
+
+
+[← Back to Main README](../Readme.md)

@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git revert
 
 After learning `git reset`, the next Git command that made a lot more sense to me was **`git revert`**.
@@ -345,3 +347,6 @@ It became a much more natural way of saying:
 > "This change was already part of our history. I don't want its effects anymore, so let's create a new commit that undoes it."
 
 And unlike my old habit of making another copy of the project whenever something went wrong, Git gives me a proper record of what happened. 😄
+
+
+[← Back to Main README](../Readme.md)

@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git stash vs cherry-pick
 
 When I first learned `git stash` and `git cherry-pick`, they both felt like ways of **moving work around**.
@@ -154,3 +156,4 @@ Committed and need that specific change elsewhere? → git cherry-pick
 I remember it as: **stash is temporary storage, cherry-pick is history.**
 
 
+[← Back to Main README](../Readme.md)

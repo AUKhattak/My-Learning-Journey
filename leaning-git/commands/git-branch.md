@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git branch
 
 One of the first Git concepts that really changed the way I worked was **branches**.
@@ -83,3 +85,6 @@ One thing I've learned is that **creating a branch is easy. Managing it properly
 Branches give me the freedom to experiment and work safely, but too many old branches, unclear names, and branches that have drifted too far can quickly turn Git into a mess.
 
 So nowadays, I try to treat branches as temporary workspaces with a clear purpose create one when I need it, keep it healthy, and get rid of it when I'm done.
+
+
+[← Back to Main README](../Readme.md)

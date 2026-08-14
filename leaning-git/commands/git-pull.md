@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git pull
 
 `git pull` was one of the first Git commands I learned. Whenever someone said there were new changes, I would simply run:
@@ -67,3 +69,6 @@ and suddenly get merge conflicts, unexpected changes, or a merge commit I wasn't
 Especially when working on a shared repository, this can get messy if my local branch has changes that don't line up nicely with what's on the remote.
 
 `git pull` isn't the problem. **Using it without understanding what it's going to do is.** 😄
+
+
+[← Back to Main README](../Readme.md)

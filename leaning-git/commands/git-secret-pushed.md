@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # What I Would Do If I Accidentally Pushed a Secret to GitHub
 
 If something like this happened to me, I wouldn't just delete the file and push another commit.
@@ -87,3 +89,5 @@ It would be to make the same mistake harder to make again.
 ## My Rule of Best Practice
 
 If I accidentally push a secret, I assume it is compromised. I revoke it first, investigate it, clean the history if necessary, and then improve the process so it doesn't happen again.
+
+[← Back to Main README](../Readme.md)

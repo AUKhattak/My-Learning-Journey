@@ -1,3 +1,5 @@
+[← Back to Main Page](../Readme.md)
+
 # My Git Journey
 
 This repo is where I’m documenting my journey with Git, how I learned it, what I struggled with, and how I became more comfortable using it.
@@ -98,3 +100,4 @@ Sometimes the safest solution isn't necessarily the shortest one. I might choose
 So AI has become another tool in my Git learning process, but not a replacement for understanding Git. When I encounter a command I haven't used before, I use AI to help me understand it, compare the alternatives, and think through the risks. **Only after I understand what I'm about to do do I run the command.**
 
 
+[← Back to Main page](../Readme.md)

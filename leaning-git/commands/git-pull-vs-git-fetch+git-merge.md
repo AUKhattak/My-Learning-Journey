@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git pull vs (git fetch + git merge) - When I avoid git pull
 
 After using `git pull`, `git fetch`, and `git merge` a few times, I realized that the commands aren't really competing with each other.
@@ -169,3 +171,6 @@ git merge
 ```
 
 Once I understood that, these commands stopped feeling like three different ways of doing the same thing.
+
+
+[← Back to Main README](../Readme.md)

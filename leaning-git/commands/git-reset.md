@@ -1,3 +1,5 @@
+[← Back to Main README](../Readme.md)
+
 # git reset
 
 Another Git command that took me a while to really understand was **`git reset`**.
@@ -323,3 +325,6 @@ git reset --hard
 ```
 
 Because unlike my old project-backup strategy, there isn't a folder called `project-backup-final-final` waiting to save me. 😄
+
+
+[← Back to Main README](../Readme.md)
