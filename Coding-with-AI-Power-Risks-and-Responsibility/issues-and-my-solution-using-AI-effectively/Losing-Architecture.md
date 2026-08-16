@@ -1,4 +1,4 @@
-[← Back to Main page](../README.md)
+[← Back to Main page](../Readme.md)
 
 # AI Can Write the Code. But Who Is Protecting the Architecture?
 
