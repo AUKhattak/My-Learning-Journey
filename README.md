@@ -7,7 +7,8 @@ Instead of keeping everything I've learned scattered across notes, bookmarks, an
 You'll find topics covering:
 
 
--[**Learning Git**](/leaning-git/Readme.md)
+* [**Learning Git**](/learning-git/Readme.md)
+* [**Coding with AI: Power, Risks and Responsibility**](/Coding-with-AI-Power-Risks-and-Responsibility/Readme.md)
 
 I will keep upoloading my journey from time to time
 
