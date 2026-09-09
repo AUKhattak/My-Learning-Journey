@@ -1376,4 +1376,4 @@ Because that, to me, is the real promise of AI-assisted development:
 > **Not AI replacing the developer, but an experienced engineer using AI to dramatically increase implementation capacity while retaining ownership of the architecture and the system's behavior.**
 
 
-[← Back to Main page](../README.md)
+[← Back to Main page](../Readme.md)

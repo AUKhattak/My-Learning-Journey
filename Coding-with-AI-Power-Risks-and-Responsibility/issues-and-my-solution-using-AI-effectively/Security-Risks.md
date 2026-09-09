@@ -326,4 +326,4 @@ That is why my rule with AI-assisted security is simple:
 That keeps AI in the role where I find it most useful: **a very fast implementation and review assistant, but not the owner of the security model.**
 
 
-[← Back to Main page](../README.md)
+[← Back to Main page](../Readme.md)
