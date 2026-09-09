@@ -1,4 +1,6 @@
-# My Claude Code Journey
+[← Back to Main page](../README.md)
+
+# My Claude Code Journey And Discovering Useful Features
 
 Here I'm documenting my journey with Claude Code, how I learned it, what I struggled with, and how I became more comfortable using it for AI-assisted development.
 
@@ -6,9 +8,7 @@ Before Claude Code, my approach to AI-assisted coding was basically: "I'll just 
 
 No more copy-pasting, no more repeating context, and no more manually integrating AI-generated code. Now I'm confident building features with Claude Code because I know I can plan, implement, test, and review my code all in one place. Claude Code has basically become my development partner.
 
-Here, I want to go back and document those parts properly—especially the concepts I found difficult, the mistakes I made, and what helped me finally understand them.
-
-This isn't meant to be a generic Claude Code guide. It's just my own learning journey and how my understanding of AI-assisted development changed over time.
+Here, I want to go back and document those parts properly especially the concepts I found difficult, the mistakes I made, and what helped me finally understand them.
 
 ---
 
@@ -21,3 +21,5 @@ Below I have covered some of claude features
 6. [Skills: How We Can Teach Our Claude Code Any Skill](./claude-features/SKILLS.md)
 7. [Hooks: How We Can Make Sure LLMs Dont Delete Any Important Files While Writing Code In Our Code-Base](./claude-features/HOOKS.md)
 8. [Plugins: How To Share Our Custom Agents, Skills Slash Commands Etc To Our Teams](./claude-features/PLUGINS.md)
+
+[← Back to Main page](../README.md)
