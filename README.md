@@ -1,14 +1,15 @@
 # Learn With Me
 
-This repository is a collection of my **learning journey as a developer**.
+This repository is a collection of my **Learning Journey As A Developer**.
 
 Instead of keeping everything I've learned scattered across notes, bookmarks, and random files, I wanted one place where I could document the concepts I've explored across different areas of software engineering.
 
 You'll find topics covering:
 
 
-* [**Learning Git**](/learning-git/Readme.md)
+* [**Git: Commands Every Developer Needs For Everyday Development**](/learning-git/Readme.md)
 * [**Coding with AI: Power, Risks and Responsibility**](/Coding-with-AI-Power-Risks-and-Responsibility/Readme.md)
+* [**Claude Code: Important And Useful Everyday Development Features**](/learning-claude/README.md)
 
 I will keep upoloading my journey from time to time
 

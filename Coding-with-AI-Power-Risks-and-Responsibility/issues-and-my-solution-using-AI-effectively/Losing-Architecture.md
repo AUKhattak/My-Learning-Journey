@@ -222,4 +222,4 @@ That's why I believe architectural discipline becomes even more important in AI-
 That is the balance I try to maintain: let AI give me speed, but don't let that speed slowly redefine the system I'm building.
 
 
-[← Back to Main page](../README.md)
+[← Back to Main page](../Readme.md)

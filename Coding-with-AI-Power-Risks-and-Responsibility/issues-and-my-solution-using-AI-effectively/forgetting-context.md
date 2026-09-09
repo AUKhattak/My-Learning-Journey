@@ -446,4 +446,4 @@ That makes AI-assisted development much more reliable because the model is no lo
 **The AI provides reasoning and implementation capability; the project repository provides persistent knowledge and truth.**
 
 
-[← Back to Main page](../README.md)
+[← Back to Main page](../Readme.md)
