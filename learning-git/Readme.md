@@ -33,25 +33,25 @@ Click on any command to see how I learned it, what confused me, and how I use it
 
 
 
-* [**git branch**](./commands/git-branch.md)
-* [**git fetch**](./commands/git-fetch.md)
-* [**git merge**](./commands/git-merge.md)
-* [**git pull**](./commands/git-pull.md)
-* [**git pull VS [git fetch + git merge]- Trade-offs and where avoid git pull**](./commands/git-pull-vs-git-fetch+git-merge.md)
-* [**Merge Conflict and How do I manage it**](./commands/merge-conflict-handle.md)
+* [**git branch**](./commands/GIT-BRANCH.md)
+* [**git fetch**](./commands/GIT-FETCH.md)
+* [**git merge**](./commands/GIT-MERGE.md)
+* [**git pull**](./commands/GIT-PULL.md)
+* [**git pull VS [git fetch + git merge]- Trade-offs and where avoid git pull**](./commands/GIT-PULL-VS-GIT-FETCH+GIT-MERGE.md)
+* [**Merge Conflict and How do I manage it**](./commands/MERGE-CONFLICT-HANDLE.md)
 
 ---
 
-* [**git rebase (How it rewrites history)**](./commands/git-rebase.md)
-* [**git reset**](./commands/git-reset.md)
-* [**git revert**](./commands/git-revert.md)
-* [**Git Rebase vs Reset vs Revert — Choosing the Right Command**](./commands/git-rebase-vs-reset-vs-revert.md)
+* [**git rebase (How it rewrites history)**](./commands/GIT-REBASE.md)
+* [**git reset**](./commands/GIT-RESET.md)
+* [**git revert**](./commands/GIT-REVERT.md)
+* [**Git Rebase vs Reset vs Revert — Choosing the Right Command**](./commands/GIT-REBASE-VS-RESET-VS-REVERT.md)
 
 ---
 
-* [**git stash and git pop**](./commands/git-stash.md)
-* [**git cherry-pick**](./commands/git-cherry-pick.md)
-* [**Git Cherry-Pick VS git stash pop — Choosing the Right Command**](./commands/git-cherry-pick-vs-merge-vs-rebase.md)
+* [**git stash and git pop**](./commands/GIT-STASH.md)
+* [**git cherry-pick**](./commands/GIT-CHERRY-PICK.md)
+* [**Git Cherry-Pick VS git stash pop — Choosing the Right Command**](./commands/GIT-CHERRY-PICK-VS-MERGE-VS-REBASE.md)
 
 
 
@@ -61,8 +61,8 @@ I started by understanding the Git concepts one by one, branches, merge, rebase,
 
 Eventually, I chose a strategy based on how my team worked, how our environments were deployed, and how much protection each branch needed.
 
-* [**Branching Strategy I Chose**](./commands/git-branching-strategy.md)
-* [**Never push these files in github**](./commands/git-ignore.md)
+* [**Branching Strategy I Chose**](./commands/GIT-BRANCHING-STRATEGY.md)
+* [**Never push these files in github**](./commands/GIT-IGNORE.md)
 
 
 
@@ -78,7 +78,7 @@ The main lesson for me is:
 
 > **Once a secret is pushed, assume it is compromised first and clean up the Git history second.**
 
-* [**What to Do If Secrets Are Accidentally Pushed**](./commands/git-secret-pushed.md)
+* [**What to Do If Secrets Are Accidentally Pushed**](./commands/GIT-SECRET-PUSHED.md)
 
 
 

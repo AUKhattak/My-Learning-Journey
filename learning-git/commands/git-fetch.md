@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git fetch
 
@@ -458,4 +458,4 @@ And that's probably the biggest thing I learned about `git fetch`:
 
 Once I understood that, `git fetch` stopped feeling like some unnecessary extra Git command.
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

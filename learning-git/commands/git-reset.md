@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git reset
 
@@ -327,4 +327,4 @@ git reset --hard
 Because unlike my old project-backup strategy, there isn't a folder called `project-backup-final-final` waiting to save me. 😄
 
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

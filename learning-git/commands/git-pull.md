@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git pull
 
@@ -71,4 +71,4 @@ Especially when working on a shared repository, this can get messy if my local b
 `git pull` isn't the problem. **Using it without understanding what it's going to do is.** 😄
 
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

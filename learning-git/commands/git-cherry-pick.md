@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git cherry-pick
 
@@ -401,4 +401,4 @@ I'm basically standing in one branch, looking at a bunch of commits, and saying:
 And honestly, that's a pretty good description of what the command does.
 
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

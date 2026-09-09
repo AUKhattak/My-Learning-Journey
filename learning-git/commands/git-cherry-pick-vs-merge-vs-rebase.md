@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git stash vs cherry-pick
 
@@ -156,4 +156,4 @@ Committed and need that specific change elsewhere? → git cherry-pick
 I remember it as: **stash is temporary storage, cherry-pick is history.**
 
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

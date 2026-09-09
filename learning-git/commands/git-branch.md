@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git branch
 
@@ -87,4 +87,4 @@ Branches give me the freedom to experiment and work safely, but too many old bra
 So nowadays, I try to treat branches as temporary workspaces with a clear purpose create one when I need it, keep it healthy, and get rid of it when I'm done.
 
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)

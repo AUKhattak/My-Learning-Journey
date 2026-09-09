@@ -1,4 +1,4 @@
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
 
 # git stash - git pop
 
@@ -50,4 +50,4 @@ It's a small thing, but `stash` has saved me from making a lot of unnecessary co
 
 **`git stash` is for temporary work, not a replacement for commits.**
 
-[← Back to Main README](../Readme.md)
+[← Back to Main README](../README.md)
