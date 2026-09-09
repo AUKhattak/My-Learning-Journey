@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # merge conflict and how do I manage it
 
@@ -239,4 +239,4 @@ So my biggest lesson with merge conflicts is:
 
 > **Don't panic, don't blindly choose "ours" or "theirs", and don't rush. Understand both changes and decide what the final code should be.**
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

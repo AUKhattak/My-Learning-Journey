@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # git pull vs (git fetch + git merge) - When I avoid git pull
 
@@ -173,4 +173,4 @@ git merge
 Once I understood that, these commands stopped feeling like three different ways of doing the same thing.
 
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # Branching Strategy for My Project
 
@@ -423,4 +423,4 @@ I didn't have to rely on someone remembering:
 The branch protection, required checks, reviews, and CI/CD pipeline made the safe path the normal path.
 
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

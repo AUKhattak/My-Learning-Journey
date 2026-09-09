@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # git merge
 
@@ -500,4 +500,4 @@ Merge lets me bring those lines of development back together.
 And after all the confusion I had with branches in the beginning, I actually like that Git keeps the history visible instead of pretending everything happened in one straight line. 😄
 
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

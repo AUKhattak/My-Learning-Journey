@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # git revert
 
@@ -349,4 +349,4 @@ It became a much more natural way of saying:
 And unlike my old habit of making another copy of the project whenever something went wrong, Git gives me a proper record of what happened. 😄
 
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

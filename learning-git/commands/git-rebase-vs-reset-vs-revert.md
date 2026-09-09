@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # git rebase vs reset vs revert — choosing the right command
 
@@ -347,4 +347,4 @@ If the answer is no, I have much more freedom.
 If the answer is yes, I slow down.
 
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

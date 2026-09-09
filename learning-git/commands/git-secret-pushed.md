@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # What I Would Do If I Accidentally Pushed a Secret to GitHub
 
@@ -90,4 +90,4 @@ It would be to make the same mistake harder to make again.
 
 If I accidentally push a secret, I assume it is compromised. I revoke it first, investigate it, clean the history if necessary, and then improve the process so it doesn't happen again.
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)

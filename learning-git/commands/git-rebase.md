@@ -1,4 +1,4 @@
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
 
 # git rebase
 
@@ -133,4 +133,4 @@ git rebase origin/main
 
 ⚠️ Rebase dev onto main.
 
-[← Back to Main README](../README.md)
+[← Back to Main README](../Readme.md)
